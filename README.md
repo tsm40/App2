@@ -16,6 +16,8 @@ Call the live agent at **+14243702125!**
 
 ## Architecture
 
+![system diagram](https://github.com/tsm40/App2/blob/main/architecture.png?raw=true)
+
 ---
 
 ## Tech Stack
