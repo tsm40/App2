@@ -1,0 +1,13 @@
+{
+  "sipDispatchRuleId": "SDR_UnTGQM8Gg26Y",
+  "rule": {
+    "dispatchRuleIndividual": {
+      "roomPrefix": "call-"
+    }
+  },
+  "trunkIds": [
+    "ST_7J63Hu6CZzpM"
+  ],
+  "name": "rule1",
+  "roomConfig": {}
+}
